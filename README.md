@@ -1,16 +1,12 @@
-# flutter_aplikasi_kuis
+# Kuis D4MI
 
-A new Flutter project.
+Aplikasi kuis interaktif untuk menguji pengetahuan Mahasiswa baru tentang prodi D4 MI UNESA.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Fitur Utama
+🎯 Registrasi peserta dengan validasi NIM  
+⏱️ Timer pertanyaan (30 detik/soal)  
+📊 Progress indicator  
+📈 Sistem skoring otomatis  
+🔄 Opsi mengulang kuis  
+🎨 UI responsif dengan tema Material Design  
+📱 Navigasi antar layar yang intuitif
