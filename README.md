@@ -3,7 +3,7 @@
 Aplikasi kuis interaktif untuk menguji pengetahuan Mahasiswa baru tentang prodi D4 MI UNESA.
 
 ## Fitur Utama
-🎯 Registrasi peserta dengan validasi NIM  
+🎯 Registrasi peserta dengan validasi Nama & NIM  
 ⏱️ Timer pertanyaan (30 detik/soal)  
 📊 Progress indicator  
 📈 Sistem skoring otomatis  
